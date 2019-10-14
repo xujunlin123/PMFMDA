@@ -8,8 +8,8 @@ W=W';
 H=H';
 parm1=1;
 parm2=1;
-parm3=0.01;
-parm4=0.01;
+parm3=0.005;
+parm4=0.005;
 k=1;
 while k<1000
    
